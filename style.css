@@ -1,0 +1,74 @@
+body{
+    position: relative;
+    background-image: url(img/apex-legends-overview-section-background-desktop-tablet-01-ps4-en-06feb19.jfif);
+    background-repeat:no-repeat;
+    background-size:cover ;
+    height: 950px;
+}
+.mainLogo{
+    height: 21%;
+    width: 32%;
+    position: absolute;
+    left: 43%;
+}
+.cardSelection{
+    box-sizing: border-box 1px solid black;
+    }
+    section{
+   
+    height:150px;
+    width:120px;
+    float:left;
+    margin: 4% 1% 1% 1%;
+    border-radius:6px;
+    }
+    .cardSection{
+    height:70%;
+    width: 64%;
+    border-radius:5px;
+    position: absolute;
+    top: 16%;
+    right: 6%;
+    background-image:url(img/backround.jpg);
+    }
+    .card{
+        background-position:center;
+        background-size:cover;
+        height: 260px;
+        width: 208px;
+    }
+    img{
+        width: 100%;
+    }
+    h1,h2{
+        float: left;
+        font-family: 'Noto Sans', sans-serif;
+        color: #be323b;
+        font-size: 233%;
+    }
+    h2{
+        font-size: 35px;
+    }
+    .text{
+        float: left;
+        width: 20%;
+        height: 25%;
+        background-image: url();
+        position: absolute;
+        top: 16%;
+    }
+    button{
+        float: left;
+        clear: both;
+        width: 10%;
+        height: 4%;
+        background-color: transparent;
+        border: transparent;
+        font-size: 40px;
+        position: absolute;
+        top: 8%;
+        left: 5%;
+    }
+    .cardsBack{
+        height: 70%;
+    }
